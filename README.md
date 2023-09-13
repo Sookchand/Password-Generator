@@ -9,6 +9,7 @@ I would like to thank Dr. Angela Yu.
 
 
 ## Demo
+![password](https://github.com/Sookchand/Password-Generator/assets/34344439/18f20076-e9b6-4e24-a26f-0aadd4d667fb)
 
 
 ## Tech Stack
